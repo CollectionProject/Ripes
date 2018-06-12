@@ -3,3 +3,4 @@
 *.autosave
 *.o
 Makefile
+build*/
