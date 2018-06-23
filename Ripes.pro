@@ -43,7 +43,8 @@ SOURCES += src/main.cpp \
     src/pipelinetable.cpp \
     src/pipelinetablemodel.cpp \
     src/rwjumpwidget.cpp \
-    src/rwjumpmodel.cpp
+    src/rwjumpmodel.cpp \
+    ripes/src/ripes_binutils.cpp
 
 HEADERS += \
     src/parser.h \
